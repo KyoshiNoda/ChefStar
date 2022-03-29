@@ -1,4 +1,4 @@
-# ChefStar
+# ChefStar - 2nd Place Farmingdale Coding Contest
 Chef Star is a fun mini game that simulates cooking/shopping in a console based application. 
 In this program users can virtually buy ingredients to cook a meal. All the ingredient are based on Walmart prices. 
 This project has won 2nd place in the Farmingdale Coding Contest
