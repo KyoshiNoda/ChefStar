@@ -1,0 +1,10 @@
+Pizza|cheese salt pepper bread chicken end
+Pasta|noodles salt pepper chicken sauce end
+Salad|lettuce tomato dressing cucumber end
+Mac&cheese|pasta Cheese butter salt end
+Sushi|rice fish crab cucumber seaweed end
+Chicken_Sandwich|bread pickles Chicken sauce end
+Cake|bread sugar icing eggs chocolate vanilla milk end
+Hot_Dogs|bread weiner ketchup mustard redish end
+Tacos|cheese beef salsa beans taco_shells end
+Ramen|water salt pepper noodles egg beef peas end
