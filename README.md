@@ -4,3 +4,5 @@ In this program users can virtually buy ingredients to cook a meal. All the ingr
 This project has won 2nd place in the Farmingdale Coding Contest
 
 This program was used to practice Object Oriented Programming. It touches upon Inheritance, Composition, Object Data Structures etc. 
+
+You can try out the program here: https://replit.com/@KyoshiNoda/Chef-Star#main.cpp
