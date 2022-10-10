@@ -77,3 +77,4 @@ void takeInput(int input)
         system("CLS");
     }
 }
+

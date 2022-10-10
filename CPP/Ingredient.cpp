@@ -24,3 +24,4 @@ double Ingredient::getPrice()
 {
 	return price;
 }
+

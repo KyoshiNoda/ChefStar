@@ -81,3 +81,4 @@ void Recipe::selectFoods(vector <Ingredient> store)
     int next;
     cin >> next;
 }
+
