@@ -6,7 +6,6 @@
 #include <sstream>
 #include "Shopping.h"
 using namespace std;
-
 class Recipe : public Shopping
 {
 private:

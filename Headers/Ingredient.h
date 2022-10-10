@@ -1,7 +1,6 @@
 #pragma once
 #include <iostream>
 using namespace std;
-
 //////////////////
 // class Name: Ingredient
 // Description: this class will be each Ingredient used in recipe and shopping.

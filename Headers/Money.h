@@ -20,3 +20,4 @@ public:
     void makeMoney();
     void subtractMoney(double value);
 };
+
